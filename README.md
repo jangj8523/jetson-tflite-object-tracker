@@ -11,6 +11,9 @@ module. The python backend used in lidar can be found in lidar_depth_objectTrack
 - Takes up 1.4G Memory
 - Preliminary object tracking via ID assignment and error handling
 - Use MQTT protocol to exchange messages in real-time
+- Processes 6 frames per second (needs improvement)
+
+I hope to optimize this process by integrating TensorRT.
 
 
 
