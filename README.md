@@ -5,3 +5,12 @@ shows the python backend of Jetson nano where the video frames are processed usi
 model, receives the depth readings of all the bounding boxes and tracks the objects using | pyimagesearch.tensorTracker.py | 
 module. 
 
+- SSD Inference model trained on Coco dataset
+- Quantized Tensorflow Lite For mobile use 
+- Average CPU Load 1.72 
+- Takes up 1.4G Memory
+- Preliminary object tracking via ID assignment and error handling
+
+
+
+
