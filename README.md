@@ -10,6 +10,7 @@ module. The python backend used in lidar can be found in lidar_depth_objectTrack
 - Average CPU Load 1.72 
 - Takes up 1.4G Memory
 - Preliminary object tracking via ID assignment and error handling
+- Use MQTT protocol to exchange messages in real-time
 
 
 
